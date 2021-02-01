@@ -1,0 +1,145 @@
+*,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.profile-container{
+  
+  margin-top: 100px;
+  
+  display: grid;
+  display: flex;
+	justify-content: space-around;
+}
+.profile-box{
+  flex-basis: calc(39%);
+  margin-left: 0px;
+	position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.profile-box-pic{
+  position: relative;
+  width: 528px;
+  height: 468px;
+	z-index: 1  ;
+	transition: all 1s cubic-bezier(1.44, 1.11, 0.71, 1.35);
+	transform: translateY(0%);
+}
+
+.profile-box-pic2 {
+width: 528px;
+height: 98px;
+margin-top: -25px;
+
+background: #D60713;
+opacity: 0.9;
+}
+
+.profile-box-pic2 .itsolution-teks1 {
+ 
+width: 400px;
+height: 37px;
+padding-left: 100px;
+padding-top: 30px;  
+text-align: center;
+align-content: center;
+
+
+/* Heading 2 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.profile-box-pic2 .itsolution-teks2 {
+ 
+  width: 400px;
+  height: 37px;
+  padding-left: 120px;
+  padding-top: 30px;  
+  text-align: center;
+  align-content: center;
+  
+  
+  /* Heading 2 */
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+  /* identical to box height */
+  
+  
+  color: #FFFFFF;
+  }
+
+
+.profile-box-content{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #D60713;
+  opacity: 0.9;
+	color: #fff;
+	font-size: 18px;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	text-align: center;
+	transition: all 1s cubic-bezier(0.44, 1.11, 0.71, 1.35);
+	transform: translateY(0%);
+}
+.profile-box:hover .profile-box-pic{
+	transform: translateY(-100%);
+}
+.profile-box:hover .profile-box-content{
+	transform: translateY(0%);
+}
+.profile-box-content h2{
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.profile-box-content p{
+  
+width: 400px;
+
+margin-left: 70px;
+top: 306.06px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.profile-box-content-in{
+	width: 100%;
+}

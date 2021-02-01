@@ -1,0 +1,885 @@
+.body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+  }
+  
+  .navbar-brand-
+  {
+  position: absolute;
+  width: 112px;
+  height: 99px;
+  left: 102px;
+  top: 32px;
+  
+  }
+  .navbar-nav li
+  {
+    
+    padding-top: 35px;
+    padding-right: 20px;
+   
+    
+  }
+  .navbar-nav li a
+  {
+    color: #fff !important;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    float: right;
+    text-align: left;
+  }
+  .fa-bars
+  {
+    color: #ffffff;
+    font-size: 30px !important;
+  
+  
+  }
+  .navbar-toggler
+  {
+    outline: none !important;
+  }
+  
+  
+  .text-nav {
+  
+  font-family: 'Overpass', sans-serif;
+  color: #FFFFFF;
+  
+  text-align: center;
+  }
+  
+  .image-logo {
+  position: absolute;
+  width: 207px;
+  height: 65px;
+  left: 90px;
+  top: 32px;
+  }
+  
+  header {
+  
+  position: absolute;
+  width: 100%;
+  height: 121px;
+  left: 0px;
+  
+  
+  background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+  }
+  
+  
+  
+  .fa-globe {
+  color: #FFFFFF;
+  margin-right: 5px;
+  }
+  
+  .btn-secondary {
+    margin-left: 40px;
+    background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+    
+  }
+  
+  .dropdown-menu .show
+  {
+    color: black;
+  }
+/* BODY */
+
+
+
+.jumbotron-register {
+
+    position: absolute;
+    width: 100%;
+    height: 244px;
+    left: 0px;
+    top: 120px;
+    
+    background: url('Image/register/Rectangle\ 56.png'), #C4C4C4;
+    opacity: 0.6;
+}
+
+.register-text {
+
+position: absolute;
+width: 388px;
+height: 69px;
+left: 446px;
+top: 100px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 46px;
+line-height: 69px;
+/* identical to box height */
+
+
+/* White */
+
+color: #F7F7F7;
+}
+
+.text-businessname {
+position: absolute;
+width: 122px;
+height: 24px;
+left: 356px;
+top: 404px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-name {
+
+position: absolute;
+width: 569px;
+height: 54px;
+left: 356px;
+top: 437px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-city {
+    position: absolute;
+    width: 32px;
+    height: 24px;
+    left: 356px;
+    top: 503px;
+    
+    /* Body */
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+}
+
+.business-city {
+    position: absolute;
+    width: 569px;
+    height: 55px;
+    left: 356px;
+    top: 536px;
+    
+    background: #FFFFFF;
+    /* Gray 4 */
+    
+    border: 1px solid #BDBDBD;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.text-countryofrigin {
+    position: absolute;
+width: 142px;
+height: 24px;
+left: 356px;
+top: 607px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-countryofrigin {
+    position: absolute;
+width: 569px;
+height: 55px;
+left: 356px;
+top: 648px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-nameofowner {
+    position: absolute;
+width: 150px;
+height: 24px;
+left: 356px;
+top: 721px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-nameofowner {
+    position: absolute;
+width: 569px;
+height: 54px;
+left: 356px;
+top: 754px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-OwnerEmail  {
+position: absolute;
+width: 112px;
+height: 24px;
+left: 356px;
+top: 820px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-OwnerEmail {
+position: absolute;
+width: 569px;
+height: 55px;
+left: 356px;
+top: 853px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+
+.text-ownerphonenumber {
+    position: absolute;
+    width: 187px;
+    height: 24px;
+    left: 356px;
+    top: 924px;
+    
+    /* Body */
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    /* Gray 1 */
+    
+    color: #333333;
+
+
+}
+
+.business-ownerphonenumber {
+    position: absolute;
+width: 569px;
+height: 55px;
+left: 356px;
+top: 965px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-Employee-1 {
+    position: absolute;
+width: 88px;
+height: 24px;
+left: 356px;
+top: 1032px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-Employee-1 {
+    position: absolute;
+width: 569px;
+height: 55px;
+left: 356px;
+top: 1065px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-Employee-2 {
+    position: absolute;
+width: 92px;
+height: 24px;
+left: 356px;
+top: 1136px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.business-Employee-2 {
+    position: absolute;
+width: 569px;
+height: 55px;
+left: 356px;
+top: 1177px;
+
+background: #FFFFFF;
+/* Gray 4 */
+
+border: 1px solid #BDBDBD;
+box-sizing: border-box;
+border-radius: 15px;
+}
+
+.text-id-verification {
+    position: absolute;
+width: 111px;
+height: 24px;
+left: 356px;
+top: 1245px;
+
+/* Body */
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.text-inside-id-vertification {
+position: absolute;
+width: 311px;
+height: 12px;
+left: 356px;
+top: 1269px;
+
+font-family: 'Poppins';
+font-style: italic;
+font-weight: 300;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.image-upload {
+position: absolute;
+width: 26px;
+height: 24px;
+left: 354px;
+top: 1295px;
+background: url('Image/Vector\ \(5\).png');
+
+}
+
+.text-upload {
+    position: absolute;
+width: 59px;
+height: 24px;
+left: 394px;
+top: 1295px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* Blue */
+
+color: #094F8A;
+}
+
+.btn-register {
+    position: absolute;
+width: 150px;
+height: 44px;
+left: 565px;
+top: 1370px;
+
+/* red */
+
+background: #D60713;
+border-radius: 50px;
+}
+
+.text-btn-register {
+    position: absolute;
+width: 81px;
+height: 30px;
+left: 35px;
+top: 5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+/* White */
+
+color: #F7F7F7;
+}
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+.footer {
+
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 1500px;
+
+background: #4F4F4F;
+}
+
+.footer-image-onesia {
+position: absolute;
+width: 200px;
+height: 77px;
+left: 100px;
+top: 70px;
+
+background: url('Image/image\ 1.png');
+}
+
+.footer-text-onesia {
+position: absolute;
+width: 230px;
+height: 30px;
+left: 101px;
+top: 146px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #FFFFFF;
+}
+
+.footer-contact {
+position: absolute;
+width: 328px;
+height: 226px;
+left: 400px;
+top: 97px;
+}
+
+.footer-mail  {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 70px;
+
+    background: url('Image/envelope.png');
+    color: white;
+}
+
+.mail-text {
+position: absolute;
+width: 156px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.footer-phone {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+background: url('Image/call-answer.png');
+    color: white;
+}
+
+.phone-text {
+position: absolute;
+width: 145px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.footer-building{
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 140px;
+
+background: url('Image/office-block.png');
+
+}
+
+.bulding-text {
+position: absolute;
+width: 280px;
+height: 126px;
+left: 34px;
+top: -30px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+
+color: #FFFFFF;
+}
+
+.footer-Home {
+
+position: absolute;
+width: 184px;
+height: 172px;
+left: 380px;
+top: 0px;
+
+}
+
+.Text-Footer-home {
+    
+position: absolute;
+width: 71px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-AboutUs {
+
+position: absolute;
+width: 107px;
+height: 21px;
+left: 0px;
+top: 35px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-business {
+
+position: absolute;
+width: 184px;
+height: 21px;
+left: 0px;
+top: 70px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-corporatenews {
+
+position: absolute;
+width: 145px;
+height: 22px;
+left: 0px;
+top: 105px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.text-footer-contact {
+
+position: absolute;
+width: 72px;
+height: 22px;
+left: 0px;
+top: 140px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Footer-SocialMedia {
+position: absolute;
+width: 221.91px;
+height: 36.34px;
+left: 412px;
+top: 190px;
+}
+
+.footer-instagram {
+
+position: absolute;
+left: 75.62%;
+right: 21.6%;
+top: 97.84%;
+bottom: 1.35%;
+
+/* White */
+
+
+}
+
+.footer-linkind {
+
+position: absolute;
+width: 35.5px;
+height: 35.5px;
+left: 100.62%;
+top: 97.84%;
+
+}
+
+.footer-youtube {
+
+position: absolute;
+left: 125.44%;
+right: 11.45%;
+top: 97.82%;
+bottom: 1.35%;
+
+/* White */
+
+background: #F7F7F7;
+}
+
+.footer-facebook {
+
+position: absolute;
+width: 35.57px;
+height: 35.57px;
+left: 158.44%;
+top: 97.82%;
+}
+
+.hr5 {
+
+position: absolute;
+width: 592.21px;
+height: 0px;
+left: 343.78px;
+top: 375px;
+
+border: 1px solid #FFFFFF;
+}
+
+.teks-copyright {
+
+position: absolute;
+width: 342px;
+height: 24px;
+left: 482px;
+top: 400px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}

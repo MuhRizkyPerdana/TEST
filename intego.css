@@ -1,0 +1,552 @@
+.body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+  }
+  
+  .navbar-brand-
+  {
+  position: absolute;
+  width: 112px;
+  height: 99px;
+  left: 102px;
+  top: 32px;
+  
+  }
+  .navbar-nav li
+  {
+    
+    padding-top: 35px;
+    padding-right: 20px;
+   
+    
+  }
+  .navbar-nav li a
+  {
+    color: #fff !important;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    float: right;
+    text-align: left;
+  }
+  .fa-bars
+  {
+    color: #ffffff;
+    font-size: 30px !important;
+  
+  
+  }
+  .navbar-toggler
+  {
+    outline: none !important;
+  }
+  
+  
+  .text-nav {
+  
+  font-family: 'Overpass', sans-serif;
+  color: #FFFFFF;
+  
+  text-align: center;
+  }
+  
+  .image-logo {
+  position: absolute;
+  width: 207px;
+  height: 65px;
+  left: 90px;
+  top: 32px;
+  }
+  
+  header {
+  
+  position: absolute;
+  width: 100%;
+  height: 121px;
+  left: 0px;
+  
+  
+  background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+  }
+  
+  
+  
+  .fa-globe {
+  color: #FFFFFF;
+  margin-right: 5px;
+  }
+  
+  .btn-secondary {
+    margin-left: 40px;
+    background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+    
+  }
+  
+  .dropdown-menu .show
+  {
+    color: black;
+  }
+
+/* BODY */
+
+.intego-jumbotron {
+position: absolute;
+width: 100%;
+height: 349px;
+left: 0px;
+top: 129px;
+
+background: url('Image/Intego/_XTY6lD8jgM\ \(1\).png');
+filter: drop-shadow(0px 7px 20px rgba(0, 0, 0, 0.25));
+}
+
+
+.intego-logo {
+
+position: absolute;
+width: 180px;
+height: 180px;
+left: 241px;
+top: 510px;
+
+background: url('Image/Intego/image\ 21\ \(1\).png');
+
+}
+
+.headline-intego {
+    position: absolute;
+width: 107px;
+height: 37px;
+left: 458px;
+top: 510px;
+
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.intgo-text {
+    position: absolute;
+width: 582px;
+height: 165px;
+left: 458px;
+top: 551px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 30px;
+/* or 250% */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.headline-catalog {
+    position: absolute;
+width: 82px;
+height: 30px;
+left: 599px;
+top: 731px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.catalog-image-intego1 {
+
+    position: absolute;
+width: 151px;
+height: 96px;
+left: 159px;
+top: 788px;
+
+background: url('Image/Intego/Rectangle\ 180.png');
+}
+
+.catalog-image-intego2 {
+    position: absolute;
+width: 151px;
+height: 96px;
+left: 362px;
+top: 788px;
+
+background: url('Image/Intego/Rectangle\ 181.png');
+}
+
+.catalog-image-intego3 {
+    position: absolute;
+width: 151px;
+height: 96px;
+left: 565px;
+top: 788px;
+
+background: url('Image/Intego/Rectangle\ 182.png');
+}
+
+.catalog-image-intego4 {
+    position: absolute;
+width: 151px;
+height: 96px;
+left: 768px;
+top: 788px;
+
+background: url('Image/Intego/Rectangle\ 183.png');
+}
+
+.catalog-image-intego5 {
+    position: absolute;
+width: 151px;
+height: 96px;
+left: 971px;
+top: 788px;
+
+background: url('Image/Intego/Rectangle\ 184.png');
+}
+
+/* Footer */
+
+.footer {
+
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 1000px;
+
+background: #4F4F4F;
+}
+
+.footer-image-onesia {
+position: absolute;
+width: 200px;
+height: 77px;
+left: 100px;
+top: 70px;
+
+background: url('Image/image\ 1.png');
+}
+
+.footer-text-onesia {
+position: absolute;
+width: 230px;
+height: 30px;
+left: 101px;
+top: 146px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #FFFFFF;
+}
+
+.footer-contact {
+position: absolute;
+width: 328px;
+height: 226px;
+left: 400px;
+top: 97px;
+}
+
+.footer-mail  {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 70px;
+
+    background: url('Image/envelope.png');
+    color: white;
+}
+
+.mail-text {
+position: absolute;
+width: 156px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.footer-phone {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+background: url('Image/call-answer.png');
+    color: white;
+}
+
+.phone-text {
+position: absolute;
+width: 145px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.footer-building{
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 140px;
+
+background: url('Image/office-block.png');
+
+}
+
+.bulding-text {
+position: absolute;
+width: 280px;
+height: 126px;
+left: 34px;
+top: -30px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+
+color: #FFFFFF;
+}
+
+.footer-Home {
+
+position: absolute;
+width: 184px;
+height: 172px;
+left: 380px;
+top: 0px;
+
+}
+
+.Text-Footer-home {
+    
+position: absolute;
+width: 71px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-AboutUs {
+
+position: absolute;
+width: 107px;
+height: 21px;
+left: 0px;
+top: 35px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-business {
+
+position: absolute;
+width: 184px;
+height: 21px;
+left: 0px;
+top: 70px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-corporatenews {
+
+position: absolute;
+width: 145px;
+height: 22px;
+left: 0px;
+top: 105px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.text-footer-contact {
+
+position: absolute;
+width: 72px;
+height: 22px;
+left: 0px;
+top: 140px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Footer-SocialMedia {
+position: absolute;
+width: 221.91px;
+height: 36.34px;
+left: 412px;
+top: 190px;
+}
+
+.footer-instagram {
+
+position: absolute;
+left: 75.62%;
+right: 21.6%;
+top: 97.84%;
+bottom: 1.35%;
+
+/* White */
+
+
+}
+
+.footer-linkind {
+
+position: absolute;
+width: 35.5px;
+height: 35.5px;
+left: 100.62%;
+top: 97.84%;
+
+}
+
+.footer-youtube {
+
+position: absolute;
+left: 125.44%;
+right: 11.45%;
+top: 97.82%;
+bottom: 1.35%;
+
+/* White */
+
+background: #F7F7F7;
+}
+
+.footer-facebook {
+
+position: absolute;
+width: 35.57px;
+height: 35.57px;
+left: 158.44%;
+top: 97.82%;
+}
+
+.hr5 {
+
+position: absolute;
+width: 592.21px;
+height: 0px;
+left: 343.78px;
+top: 375px;
+
+border: 1px solid #FFFFFF;
+}
+
+.teks-copyright {
+
+position: absolute;
+width: 342px;
+height: 24px;
+left: 482px;
+top: 400px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}

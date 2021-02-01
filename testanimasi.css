@@ -1,0 +1,1476 @@
+.body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+}
+
+.navbar-brand-
+{
+  position: absolute;
+  width: 112px;
+  height: 99px;
+  left: 102px;
+  top: 32px;
+  
+}
+.navbar-nav li
+{
+    
+    padding-top: 35px;
+    padding-right: 20px;
+   
+    
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    float: right;
+    text-align: left;
+}
+.fa-bars
+{
+    color: #ffffff;
+    font-size: 30px !important;
+  
+  
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+
+
+.text-nav {
+  
+  font-family: 'Overpass', sans-serif;
+  color: #FFFFFF;
+
+  text-align: center;
+}
+
+.image-logo {
+position: absolute;
+width: 207px;
+height: 65px;
+left: 90px;
+top: 32px;
+}
+
+header {
+
+position: absolute;
+width: 100%;
+height: 121px;
+left: 0px;
+
+
+background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+}
+
+
+
+.fa-globe {
+color: #FFFFFF;
+margin-right: 5px;
+}
+
+.btn-secondary {
+    margin-left: 40px;
+    background: linear-gradient(90deg, #780007 3.16%, #F80917 89.18%);
+    
+}
+
+.dropdownMenuButton {
+  background-color: #000000;
+}
+
+.dropdown-menu {
+ 
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+  
+}
+
+.dropdown-item {
+  color: #000000;
+}
+
+
+
+
+/* BODY */
+
+/* JUMBOTRON */
+
+.jumbotron {
+
+    position: absolute;
+    width: 100%;
+    height: 499px;
+    left: 0px;
+    top: 121px;
+    
+    background: url('Image/Rectangle\ 37\ \(3\).png');
+}
+
+.text-jumbotron {
+
+position: absolute;
+width: 370px;
+height: 100px;
+left: 100px;
+top: 107px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 50px;
+/* or 167% */
+
+
+/* Gray 6 */
+
+color: #F2F2F2;
+}
+
+.text-jumbotron2 {
+
+position: absolute;
+width: 350px;
+height: 278px;
+left: 100px;
+top: 222px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+/* Gray 5 */
+
+color: #E0E0E0;
+}
+
+.jumbotron-background {
+
+    position: absolute;
+    width: 100%;
+    height: 499px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(91.32deg, #000000 1.28%, rgba(0, 0, 0, 0) 123.36%);
+
+}
+
+.inside-onesia {
+    width: 100%;
+   
+}
+
+/* Partnership */
+
+.Partnership-Background {
+
+position: absolute;
+width: 100%;
+height: 260px;
+left: 0px;
+top: 614px;
+
+
+
+
+}
+
+.text-Partnership {
+
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 13px;
+    
+    /* Heading 2 */
+    
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    /* identical to box height */
+    
+    
+    color: #4F4F4F;
+}
+
+.parnership-inside-logo {
+    align-items: center;
+    position: absolute;
+    left: 45px;
+}
+
+.Parnershipmain1 {
+    position: relative;
+    width: 117px;
+    top: 66px;
+  }
+  .Parnershipmain1 img {
+    position: absolute;
+    left: 122px;
+    width: 100%;
+    /* -webkit-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -ms-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain1 .partner-hover-1:hover {
+    
+    opacity: 0%;
+   
+  }
+
+
+.partner-1 {
+
+position: absolute;
+width: 117px;
+height: 117px;
+left: 122px;
+top: 0px;
+
+
+mix-blend-mode: darken; 
+
+}
+
+
+
+.Parnershipmain2 {
+    position: relative;
+    width: 117px;
+    top: 66px;
+  }
+  .Parnershipmain2 img {
+    position: absolute;
+    left: 274px;
+    width: 100%;
+    /* -webkit-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -ms-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain2 .partner-hover-2:hover {
+    
+    opacity: 0%;
+   
+  }
+
+
+.partner-2 {
+position: absolute;
+width: 117px;
+height: 117px;
+left: 274px;
+top: 0px;
+
+background: url(image.png);
+mix-blend-mode: darken;
+
+}
+
+.Parnershipmain3 {
+    position: relative;
+    width: 122px;
+    top: 96px;
+  }
+  .Parnershipmain3 img {
+    position: absolute;
+    left: 426px;
+    width: 100%;
+    /* -webkit-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -ms-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain3 .partner-hover-3:hover {
+    
+    opacity: 0%;
+   
+  }
+
+.partner-3 {
+position: absolute;
+width: 122px;
+height: 59px;
+left: 426px;
+top: 0px;
+
+}
+
+.Parnershipmain4 {
+    position: relative;
+    width: 195px;
+    top: 85px;
+  }
+  .Parnershipmain4 img {
+    position: absolute;
+    left: 583px;
+    width: 100%;
+    /* -webkit-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -ms-transition: opacity 1s ease-in-out;
+    transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain4 .partner-hover-4:hover {
+    
+    opacity: 0%;
+   
+  }
+
+.partner-4 {
+position: absolute;
+width: 195px;
+height: 94px;
+left: 583px;
+top: 0px;
+
+background: url(image.png);
+mix-blend-mode: darken;
+}
+
+.Parnershipmain5 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 98px;
+  }
+  .Parnershipmain5 img {
+    position: absolute;
+    left: 801.14px;
+    width: 100%;
+        /* -webkit-transition: opacity 1s ease-in-out;
+        -o-transition: opacity 1s ease-in-out;
+        -moz-transition: opacity 1s ease-in-out;
+        -ms-transition: opacity 1s ease-in-out;
+        transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain5 .partner-hover-5:hover {
+    
+    opacity: 0%;
+   
+  }
+
+.partner-5 {
+position: absolute;
+width: 100%;
+height: 69px;
+left: 821.14px;
+top: 0px;
+}
+
+.Parnershipmain6 {
+    position: relative;
+    width: 100%;
+    height: 36.49px;
+    top: 106px;
+  }
+  .Parnershipmain6 img {
+    position: absolute;
+    left: 1020.07px;
+    width: 100%;
+        /* -webkit-transition: opacity 1s ease-in-out;
+        -o-transition: opacity 1s ease-in-out;
+        -moz-transition: opacity 1s ease-in-out;
+        -ms-transition: opacity 1s ease-in-out;
+        transition: opacity 1s ease-in-out; */
+  }
+  .Parnershipmain6 .partner-hover-6:hover {
+    
+    opacity: 0%;
+   
+  }
+
+.partner-6 {
+
+position: absolute;
+width: 100%;
+height: 46.49px;
+left: 1020.07px;
+top: 0px;
+
+}
+
+/* About Us */
+
+.text-become p {
+
+position: absolute;
+width: 100%;
+
+left: 0;
+top: 820px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 30px;
+text-align: center;
+/* identical to box height, or 214% */
+
+letter-spacing: 0.08em;
+text-decoration: none;
+
+
+color: #4F4F4F;
+
+
+
+}
+
+
+
+.about-us {
+
+    position: absolute;
+    width: 100%;
+    height: 650px;
+    left: 0;
+    
+    top: 856px;
+    
+
+}
+
+
+
+.about-us-background {
+
+position: absolute;
+width: 847.67px;
+height: 517.29px;
+left: 28%; 
+top: 42.92px;
+
+background: url('Image/Rectangle\ 17.png');
+
+}
+    
+.image-about-us-Linear {
+
+    position: absolute;
+    width: 847.67px;
+    height: 517.29px;
+    left: 0px; 
+    top: 0px;
+    
+    background: rgba(214, 7, 19, 0.9);
+
+}
+
+.image-about-us {
+
+position: absolute;
+width: 400px;
+height: 364px;
+left: -210px;
+top: 77px;
+
+background: url('Image/aboutus.png');
+}
+
+.text-about-us {
+
+position: absolute;
+width: 150px;
+height: 37px;
+left: 248.33px;
+top: 171.08px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.text-about-us-1 {
+
+    position: absolute;
+    width: 393px;
+    height: 172px;
+    left: 247.97px;
+    top: 259.68px;
+    
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    /* or 214% */
+    
+    
+    color: #FFFFFF;
+}
+
+/* Business */
+
+
+.Business {
+   
+ 
+}
+.text-business {
+
+position: absolute;
+width: 100%;
+height: 37px;
+left: 0;
+top: 1501px;
+
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+text-align: center;
+/* identical to box height */
+
+
+/* Gray 1 */
+
+color: #333333;
+
+}
+
+
+hr {
+
+position: absolute;
+width: 59px;
+height: 6px;
+left: 640px;
+top: 1533px;
+
+/* red */
+
+background: #D60713;
+}
+
+*,*:after,*:before{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.profile-container{
+  
+  margin-top: 1520px;
+  display: flex;
+	justify-content: space-around;
+}
+.profile-box{
+  flex-basis: calc(39%);
+  margin-left: 0px;
+	position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.profile-box-pic{
+  position: relative;
+  width: 528px;
+  height: 468px;
+	z-index: 1  ;
+	transition: all 1s cubic-bezier(1.44, 1.11, 0.71, 1.35);
+	transform: translateY(0%);
+}
+
+.profile-box-pic2 {
+width: 528px;
+height: 98px;
+margin-top: px;
+
+background: #D60713;
+opacity: 0.9;
+}
+
+.profile-box-pic2 .itsolution-teks1 {
+ 
+width: 400px;
+height: 37px;
+padding-left: 100px;
+padding-top: 30px;  
+text-align: center;
+align-content: center;
+
+
+/* Heading 2 */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.profile-box-pic2 .itsolution-teks2 {
+ 
+  width: 400px;
+  height: 37px;
+  padding-left: 120px;
+  padding-top: 30px;  
+  text-align: center;
+  align-content: center;
+  
+  
+  /* Heading 2 */
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+  /* identical to box height */
+  
+  
+  color: #FFFFFF;
+  }
+
+
+.profile-box-content{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: #D60713;
+  opacity: 0.9;
+	color: #fff;
+	font-size: 18px;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	text-align: center;
+	transition: all 1s cubic-bezier(0.44, 1.11, 0.71, 1.35);
+	transform: translateY(0%);
+}
+.profile-box:hover .profile-box-pic{
+	transform: translateY(-100%);
+}
+.profile-box:hover .profile-box-content{
+	transform: translateY(0%);
+}
+.profile-box-content h2{
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.profile-box-content p{
+  
+width: 400px;
+
+margin-left: 70px;
+top: 306.06px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.profile-box-content-in{
+	width: 100%;
+}
+
+
+
+/* Visi Dan Misi */
+
+
+.Visidanmisi {
+
+    /* position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 2300px;
+    left: 0;
+
+
+    background: coral; */
+}
+
+.image-visidanmisi {
+
+position: absolute;
+width: 530px;
+height: 508px;
+left: 120px;
+top: 2198px;
+
+background: url('Image/Visidanmisi.png');
+
+}
+
+.mission {
+
+position: absolute;
+width: 124px;
+height: 37px;
+left: 701px;
+top: 2191px;
+
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+
+/* Gray 1 */
+
+color: #333333;
+
+}
+
+.hr2 {
+
+position: absolute;
+width: 59px;
+height: 6px;
+left: 839px;
+top: 2193px;
+
+/* red */
+
+background: #D60713;
+}
+
+.text-mission {
+
+position: absolute;
+width: 429px;
+height: 61px;
+left: 701px;
+top: 2259px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.vision {
+position: absolute;
+width: 102px;
+height: 37px;
+left: 701px;
+top: 2330px;
+
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.hr3 {
+position: absolute;
+width: 59px;
+height: 6px;
+left: 828px;
+top: 2331px;
+
+/* red */
+
+background: #D60713;
+}
+
+.simbol-vision {
+position: absolute;
+width: 14px;
+height: 14px;
+left: 690px;
+top: 2406px;
+
+background: url('image/Group34.png');
+
+}
+
+.text-vision {
+position: absolute;
+width: 450px;
+height: 61px;
+left: 711px;
+top: 2398px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.simbol-vision1 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 690px;
+    top: 2467px;
+
+background: url('image/Group34.png');
+}
+
+.text-vision1 {
+
+position: absolute;
+width: 450px;
+height: 61px;
+left: 711px;
+top: 2459px;
+
+/* Body */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.simbol-vision2 {
+
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 690px;
+    top: 2567px;
+    background: url('image/Group34.png');
+}
+
+.text-vision2 {
+
+position: absolute;
+width: 450px;
+height: 61px;
+left: 711px;
+top: 2559px;
+
+/* Body */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.simbol-vision3 {
+
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 691px;
+    top: 2628px;
+    
+    background: url('image/Group34.png');
+}
+
+.text-vision3 {
+position: absolute;
+width: 450px;
+height: 61px;
+left: 711px;
+top: 2620px;
+
+/* Body */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.simbol-vision4 {
+
+position: absolute;
+width: 14px;
+height: 14px;
+left: 690px;
+top: 2689px;
+    
+    background: url('image/Group34.png');
+}
+
+.text-vision4 {
+position: absolute;
+width: 450px;
+height: 61px;
+left: 711px;
+top: 2681px;
+
+/* Body */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+
+
+/* Human Resourcges  */
+
+.text-humanresourches {
+position: absolute;
+width: 20%;
+height: 74px;
+left: 117px;
+top: 2818px;
+
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.hr4 {
+width: 45px;
+height: 6px;
+left: 242px;
+top: 2820px;
+
+/* red */
+
+background: #D60713;
+}
+
+.text-humanresourches2 {
+
+position: absolute;
+width: 486px;
+height: 400px;
+left: 117px;
+top: 2937px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.hrd-images-background {
+    position: absolute;
+    width: 523px;
+    height: 387px;
+    left: 690px;
+    top: 2801px;
+    
+    background: url('Image/Rectangle\ 17.6.png'), rgba(156, 54, 54, 0.9);  
+}
+
+.hrd-linear {
+position: absolute;
+width: 523px;
+height: 387px;
+left: 695px;
+top: 2796px;
+
+background: rgba(214, 7, 19, 0.9);
+}
+
+.hrd-images {
+position: absolute;
+width: 550px;
+height: 410.4px;
+left: 644.38px;
+top: 2840.64px;
+
+background: url('Image/image\ 6.png');
+}
+
+/* Oppurtunities */
+
+.image-background-oppurtunities {
+
+position: absolute;
+width: 100%;
+height: 596px;
+left: 0px;
+top: 3355px;
+
+background: url('Image/Career\ Oppurtunties.png') no-repeat;
+
+}
+
+
+.text-careeroppurtunties {
+
+position: absolute;
+width: 100%;
+
+left: 0;
+top: 240px;
+text-align: center;
+/* Heading 2 */
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.box-career {
+
+    position: absolute;
+    width: 284px;
+    height: 70px;
+    left: 39%;
+    top: 310px;
+   align-self: center;
+    
+    background: #E40815;
+}
+
+.text-join {
+
+position: absolute;
+width: 149px;
+height: 30px;
+left: 75px;
+top: 20px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+
+color: #FFFFFF;
+}
+
+/* Footer */
+
+.footer {
+
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 4100px;
+
+background: #4F4F4F;
+}
+
+.footer-image-onesia {
+position: absolute;
+width: 200px;
+height: 77px;
+left: 100px;
+top: 70px;
+
+background: url('Image/image\ 1.png');
+}
+
+.footer-text-onesia {
+position: absolute;
+width: 230px;
+height: 30px;
+left: 101px;
+top: 146px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+
+color: #FFFFFF;
+}
+
+.footer-contact {
+position: absolute;
+width: 328px;
+height: 226px;
+left: 400px;
+top: 97px;
+}
+
+.footer-mail  {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 70px;
+
+    background: url('Image/envelope.png');
+    color: white;
+}
+
+.mail-text {
+position: absolute;
+width: 156px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+.footer-phone {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+background: url('Image/call-answer.png');
+    color: white;
+}
+
+.phone-text {
+position: absolute;
+width: 145px;
+height: 22px;
+left: 34px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.footer-building{
+    
+position: absolute;
+width: 24px;
+height: 24px;
+left: 0px;
+top: 140px;
+
+background: url('Image/office-block.png');
+
+}
+
+.bulding-text {
+position: absolute;
+width: 280px;
+height: 126px;
+left: 34px;
+top: -30px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+
+color: #FFFFFF;
+}
+
+.footer-Home {
+
+position: absolute;
+width: 184px;
+height: 172px;
+left: 380px;
+top: 0px;
+
+}
+
+.Text-Footer-home {
+    
+position: absolute;
+width: 71px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-AboutUs {
+
+position: absolute;
+width: 107px;
+height: 21px;
+left: 0px;
+top: 35px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-business {
+
+position: absolute;
+width: 184px;
+height: 21px;
+left: 0px;
+top: 70px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+}
+
+.text-footer-corporatenews {
+
+position: absolute;
+width: 145px;
+height: 22px;
+left: 0px;
+top: 105px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.text-footer-contact {
+
+position: absolute;
+width: 72px;
+height: 22px;
+left: 0px;
+top: 140px;
+
+font-family: 'Montserrat', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+.Footer-SocialMedia {
+position: absolute;
+width: 221.91px;
+height: 36.34px;
+left: 412px;
+top: 190px;
+}
+
+.footer-instagram {
+
+position: absolute;
+left: 75.62%;
+right: 21.6%;
+top: 97.84%;
+bottom: 1.35%;
+
+/* White */
+
+background: #F7F7F7;
+}
+
+.footer-linkind {
+
+position: absolute;
+width: 35.5px;
+height: 35.5px;
+left: 100.62%;
+top: 97.84%;
+
+}
+
+.footer-youtube {
+
+position: absolute;
+left: 125.44%;
+right: 11.45%;
+top: 97.82%;
+bottom: 1.35%;
+
+/* White */
+
+background: #F7F7F7;
+}
+
+.footer-facebook {
+
+position: absolute;
+width: 35.57px;
+height: 35.57px;
+left: 158.44%;
+top: 97.82%;
+}
+
+.hr5 {
+
+position: absolute;
+width: 592.21px;
+height: 0px;
+left: 343.78px;
+top: 375px;
+
+border: 1px solid #FFFFFF;
+}
+
+.teks-copyright {
+
+position: absolute;
+width: 342px;
+height: 24px;
+left: 482px;
+top: 400px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
